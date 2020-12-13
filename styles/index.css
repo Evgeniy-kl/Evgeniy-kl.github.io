@@ -1,0 +1,61 @@
+button{
+    background: none;
+    border: none;
+    box-shadow: none;
+    outline:none;
+    margin:0;
+    padding:0;
+}
+.df{
+    display: flex;
+}
+.fc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fww{
+    flex-wrap: wrap;
+}
+.jcc{
+    justify-content: center;
+}
+.jcfs{
+justify-content: flex-start;
+}
+
+.jcfe{
+    -webkit-box-pack: end;
+    -ms-flex-pack:end;
+    justify-content: flex-end;
+}
+.jcsb{
+    justify-content: space-between;
+}
+.ta3{
+    transition:all .3s;
+}
+.aic{
+    align-items:center ;
+}
+
+.aifs{
+    align-items:  flex-start;
+}
+.aife{
+    align-items: flex-end;
+}
+.bsbb{
+box-sizing:border-box;
+}
+.dib{
+    display: inline-block;
+}
+
+button{
+    cursor: pointer;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
